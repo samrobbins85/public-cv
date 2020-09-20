@@ -83,7 +83,7 @@ projects:
     - name: CS Notes
       date: July 2020 - Present
       link: samrobbins.uk/csnotes
-      description: A website containing all my university notes, written using Markdown and React
+      description: Using Markdown and React created a website to display and organise my university notes
     - name: Same Home Different Hacks
       date: June 2020
       link: samrobbins.uk/shdh
