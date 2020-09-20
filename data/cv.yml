@@ -88,12 +88,12 @@ projects:
       date: June 2020
       link: samrobbins.uk/shdh
       description:
-        Using pair programming created a Flutter app to organize electronic
-        components and assign them to projects.
+        Used pair programming to create a Flutter app which organized electronic
+        components and assigned them to projects
     - name: Hugo Developer Portfolio
       date: December 2019 - Present
       link: samrobbins.uk/gh-portfolio
-      description: Created a portfolio website Hugo theme with the UIkit CSS Framework.
+      description: Created a portfolio website Hugo theme with the UIkit CSS Framework
     - name: DurHack 2019
       date: November 2019
       link: samrobbins.uk/dh19
