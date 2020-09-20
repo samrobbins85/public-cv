@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "github": {
+    "silent": true
+  },
+  "build": {
+    "env": {
+      "NODE_ENV": "production",
+      "HUGO_VERSION": "0.73.0"
+    }
+  }
+}

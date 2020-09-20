@@ -1,0 +1,28 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "My CV, using the Hugo theme",
+  "scripts": {
+    "build": "hugo && node index.js",
+    "dev": "hugo server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samrobbins85/cv.git"
+  },
+  "author": "Sam Robbins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samrobbins85/cv/issues"
+  },
+  "homepage": "https://github.com/samrobbins85/cv#readme",
+  "devDependencies": {
+    "postcss-cli": "^7.1.2",
+    "prettier": "^2.1.2",
+    "prettier-plugin-go-template": "0.0.10",
+    "tailwindcss": "^1.8.10"
+  },
+  "dependencies": {
+    "puppeteer": "^5.3.0"
+  }
+}

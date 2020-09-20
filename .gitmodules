@@ -1,0 +1,3 @@
+[submodule "themes/cv-theme"]
+	path = themes/cv-theme
+	url = https://github.com/samrobbins85/cv-theme.git
