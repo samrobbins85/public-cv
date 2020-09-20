@@ -12,7 +12,7 @@ var path = require("path");
     example.parentNode.removeChild(example);
   });
 
-  await page.pdf({ path: "public/cv.pdf", format: "A4", scale: 0.8 });
+  await page.pdf({ path: "public/cv.pdf", format: "A4", scale: 0.9 });
 
   await browser.close();
 })();
