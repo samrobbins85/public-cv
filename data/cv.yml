@@ -1,8 +1,17 @@
+anon: false
+name:
+  enable: true
+  title: Sam Robbins
 links:
-  email: samrobbinsgb@gmail.com
-  website: samrobbins.uk
-  github: samrobbins85
-  linkedin: sam-robbins-gb
+  enable: true
+  email:
+    title: samrobbinsgb@gmail.com
+  website:
+    title: samrobbins.uk
+  github:
+    title: samrobbins85
+  linkedin:
+    title: sam-robbins-gb
 profile:
   item:
     - point: Experience in web development
@@ -54,6 +63,9 @@ qualifications:
       organisation: Durham University
 experience:
   item:
+    - position: Durham University Teaching Assistant
+      date: October 2020 - Present
+      description: Taught Software Engineering to second year students
     - position: Global Cyber Alliance Summer Intern
       date: July 2020 - September 2020
       description: Worked on a range of projects, including a tool to compare DNS services and a tool to detect the presence of Intel security measures on a computer
@@ -74,6 +86,9 @@ experience:
         page formatting
 projects:
   item:
+    - name: init.OSS
+      date: September 2020 - Present
+      description: A website to guide people in making their first contributions to open source software
     - name: Auth0 Hackathon
       date: August 2020
       link: samrobbins.uk/auth0
