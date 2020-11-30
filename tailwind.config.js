@@ -1,15 +1,21 @@
 module.exports = {
-  future: {
-    removeDeprecatedGapUtilities: true,
-    purgeLayersByDefault: true,
-  },
   purge: [
     "./themes/cv-theme/layouts/**/*.html",
     "./data/*.yml",
     "./layouts/**/*.html",
   ],
   theme: {
-    extend: {},
+    extend: {
+      borderWidth: {
+        6: "6px",
+      },
+      maxWidth: {
+        ch85: "85ch",
+      },
+      screens: {
+        print: { raw: "print" },
+      },
+    },
     fontFamily: {
       sans: ["Inter var", "Inter"],
     },

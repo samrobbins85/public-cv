@@ -40,7 +40,7 @@ const http = require("http");
     example.parentNode.removeChild(example);
   });
 
-  await page.pdf({ path: "public/cv.pdf", format: "A4", scale: 0.85 });
+  await page.pdf({ path: "public/cv.pdf", format: "A4" });
   await browser.close();
   await server.close();
 })();
