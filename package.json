@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "http": "0.0.1-security",
-    "postcss": "^8.1.10",
+    "postcss": "^8.2.10",
     "puppeteer": "^5.5.0",
     "serve-handler": "^6.1.3"
   }
